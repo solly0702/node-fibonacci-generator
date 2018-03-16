@@ -11,8 +11,8 @@
 ### Deployment
 
 ```
--> cd node_fib_gen_api
--> docker build -t fib_gen:1.0.0-alpine .
+-> cd node-fib-gen-api
+-> docker build -t node_fib_gen-api:1.0.0-alpine .
 -> docker-compose up -d
 ```
 

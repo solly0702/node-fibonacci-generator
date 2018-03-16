@@ -1,4 +1,4 @@
-# docker build -t node_fib_gen:1.0.0-alpine .
+# docker build -t node_fib_gen-api:1.0.0-alpine .
 FROM alpine:3.7
 LABEL Sol Lee
 
